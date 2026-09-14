@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "vite --host 0.0.0.0 --port 3000",
-    "build": "node tools/generate-llms.js || true && vite build --outDir ../../dist",
+    "build": "node tools/generate-llms.js || true && vite build --outDir ../../dist && node tools/export-static-routes.js",
     "preview": "vite preview --host 0.0.0.0 --port 3000 --outDir ../../dist",
     "lint": "eslint . --quiet; lint_status=$?; eslint \"src/**/*.jsx\" --config eslint.config.mjs --format ./eslint.unicode-escapes-formatter.mjs --no-error-on-unmatched-pattern; exit $lint_status",
     "lint:warn": "eslint ."
