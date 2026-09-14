@@ -7,10 +7,6 @@
     "build": "npm run build --workspace=apps/web",
     "lint": "npm run lint --workspace=apps/web"
   },
-  "devDependencies": {
-    "concurrently": "^10.0.4",
-    "knip": "^6.32.1"
-  },
   "workspaces": [
     "apps/*"
   ]

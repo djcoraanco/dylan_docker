@@ -7,22 +7,12 @@ import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
 import { Card, CardContent } from '@/components/ui/card';
-import { Mail, MapPin, Send, Phone, Calendar } from 'lucide-react';
+import { Mail, MapPin, Send, Phone, Calendar, ExternalLink, Loader2 } from 'lucide-react';
 
 function ContactPage() {
   const { toast } = useToast();
   const [isSubmitting, setIsSubmitting] = useState(false);
-
-  // Load Calendly script asynchronously on component mount
-  useEffect(() => {
-    const existingScript = document.querySelector('script[src="https://assets.calendly.com/assets/external/widget.js"]');
-    if (!existingScript) {
-      const script = document.createElement('script');
-      script.src = 'https://assets.calendly.com/assets/external/widget.js';
-      script.async = true;
-      document.body.appendChild(script);
-    }
-  }, []);
+  const [isCalendlyLoading, setIsCalendlyLoading] = useState(true);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -244,26 +234,41 @@ function ContactPage() {
             transition={{ delay: 0.3 }}
             className="flex flex-col h-full"
           >
-            <div className="bg-card p-8 md:p-10 rounded-[2rem] border border-secondary shadow-xl relative overflow-hidden flex flex-col h-full min-h-[700px]">
+            <div className="bg-card p-6 md:p-8 rounded-[2rem] border border-secondary shadow-xl relative overflow-hidden flex flex-col h-full min-h-[750px]">
               <div className="absolute top-0 right-0 w-full h-1 bg-primary"></div>
               
-              <h2 className="text-2xl font-bold mb-6 text-foreground flex items-center gap-3">
-                <Calendar className="text-primary" size={24} />
-                Schedule a Consultation
-              </h2>
+              <div className="flex items-center justify-between mb-6 flex-wrap gap-3">
+                <h2 className="text-2xl font-bold text-foreground flex items-center gap-3">
+                  <Calendar className="text-primary" size={24} />
+                  Schedule a Consultation
+                </h2>
+                <a
+                  href="https://calendly.com/dylanmazzei/60min"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full bg-primary/10 text-primary hover:bg-primary/20 transition-colors"
+                >
+                  <span>Open in Calendly</span>
+                  <ExternalLink size={13} />
+                </a>
+              </div>
               
-              <div className="flex-grow w-full rounded-xl overflow-hidden border border-secondary/50 bg-background/50 relative">
-                {/* 
-                  Calendly Inline Widget 
-                  Configured with hex colors approximating the dark theme: 
-                  Background: #0a0f1a (deep navy)
-                  Text: #ffffff 
-                  Primary: #1e7ff2 (blue) 
-                */}
-                <div 
-                  className="calendly-inline-widget w-full h-full absolute inset-0" 
-                  data-url="https://calendly.com/dylanmazzei/60min?hide_event_type_details=1&hide_gdpr_banner=1&background_color=0a0f1a&text_color=ffffff&primary_color=1e7ff2"
-                ></div>
+              <div className="flex-grow w-full rounded-xl overflow-hidden border border-secondary/50 bg-[#0a0f1a] relative min-h-[660px]">
+                {isCalendlyLoading && (
+                  <div className="absolute inset-0 flex flex-col items-center justify-center bg-[#0a0f1a] text-muted-foreground z-10">
+                    <Loader2 className="w-8 h-8 text-primary animate-spin mb-3" />
+                    <p className="text-sm font-medium text-slate-300">Loading consultation calendar...</p>
+                  </div>
+                )}
+                <iframe 
+                  src="https://calendly.com/dylanmazzei/60min?hide_event_type_details=1&hide_gdpr_banner=1&background_color=0a0f1a&text_color=ffffff&primary_color=1e7ff2"
+                  width="100%"
+                  height="100%"
+                  frameBorder="0"
+                  title="Dylan Mazzei Calendly Consultation"
+                  className="w-full h-full min-h-[660px] border-0 rounded-xl"
+                  onLoad={() => setIsCalendlyLoading(false)}
+                />
               </div>
             </div>
           </motion.div>
