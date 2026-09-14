@@ -3,11 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "setup": "npm install",
-    "dev": "concurrently --kill-others --raw \"npm run dev --prefix apps/web\"",
-    "build": "concurrently --raw \"npm run build --prefix apps/web\"",
-    "start": "concurrently --kill-others --raw",
-    "lint": "concurrently --raw \"npm run lint --prefix apps/web\""
+    "dev": "npm run dev --workspace=apps/web",
+    "build": "npm run build --workspace=apps/web",
+    "lint": "npm run lint --workspace=apps/web"
   },
   "devDependencies": {
     "concurrently": "^10.0.4",
