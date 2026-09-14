@@ -1,0 +1,277 @@
+# Dylan Mazzei - Complete Site Content
+
+Dylan Mazzei is a multi-venture founder, operator, and author with extensive experience across marketing, AI software, spirits, edtech, and cybersecurity. Operating across the US and UAE, he has achieved four exits. He offers specialized consulting in business optimization, setup, marketing, and fractional executive roles, heavily backed by his specialist operating teams across his portfolio companies.
+
+## Core Message & Philosophy
+Operator first. Everything else second. Dylan builds and runs companies. The content, the book, and the consulting all come from the same place: what actually works inside businesses he is accountable for.
+
+## Core Offerings
+- Consulting (Marketing, Business Setup, Business Optimization, Supply Chain, Cybersecurity, Education)
+- Fractional Executive Roles
+- Author of "The Business Launch Playbook"
+
+## Consulting Hub & Engagement Models
+A systematic approach to diagnosing and solving business friction. Start with a deep-dive diagnostic to uncover the true leverage points in your business. Every engagement begins here.
+- **Business Diagnostic**: The mandatory starting point. A deep-dive audit into your current operations, financials, tech stack, and marketing footprint to identify bottlenecks. You receive a documented, prioritized execution playbook detailing exact next steps.
+- **90-Day Sprint**: Hands-on execution of the diagnostic playbook by Dylan's specialist teams, including system setup, automation, vendor/talent vetting, and weekly progress check-ins.
+- **Advisory Retainer**: Ongoing guidance for founders and internal teams, including monthly strategic roadmapping, bi-weekly advisory calls, and quarterly P&L reviews.
+
+**CTA:** Book Your Diagnostic
+
+---
+
+## Fractional Executive Roles
+Get the senior strategic leadership and specialist teams your business needs to scale, without the risk, equity dilution, or high salary of a full-time executive hire. Every seat is Dylan Mazzei in the executive chair, backed by the specialist teams across his operating companies. You hire the executive. You get the operating group behind him.
+
+**When Fractional Makes Sense:**
+- You have hit a growth ceiling and your current leadership team lacks the specialized experience to break through.
+- You are scaling rapidly and need executive-level strategy, but cannot justify a $250k+ full-time salary.
+- You are preparing for a capital raise or exit and need to formalize your C-suite and operational processes.
+- You need not just an executive, but an entire execution team to implement the strategy.
+
+**Roles Offered:**
+- **Fractional CMO**: Go-to-market strategy, paid media and SEO allocation, and team leadership. Backed by Dylan's agency teams for SEO, AI search, and paid media.
+- **Fractional COO**: Daily operations, SOP creation, cost structure optimization. Backed by Dylan's operations and automation teams.
+- **Fractional CISO**: Security posture oversight, SOC 2/HIPAA compliance, vendor review. Backed by Dylan's security team and assessment platform.
+- **Fractional Chief AI Officer**: AI governance, workflow automation, internal training. Backed by Dylan's AI operations teams.
+
+**Who This Is For:**
+- Series A/B startups needing seasoned leadership to deploy capital efficiently.
+- Established SMBs ($2M-$20M revenue) transitioning from founder-led sales/operations to professionalized management.
+- Post-merger companies requiring integration oversight.
+
+**How the Engagement Works:**
+- **Audit & Roadmap (First 30 Days):** Comprehensive review of the department, team evaluation, and 12-month strategy creation.
+- **Execution & Integration:** 1-2 days per week of focused executive time, managing internal teams, deploying specialized agency resources, and sitting on the leadership team.
+- **Transition:** When the company reaches the scale to support a full-time executive, we help draft the job description, interview candidates, and manage the handover.
+
+### Fractional Roles FAQs
+- **What is the difference between Advisory and Fractional?** Advisory is guidance: we meet with you to help you make decisions, but you manage the team. Fractional is leadership: I take a seat on your executive team, manage the department directly alongside my operating units, and hold your staff accountable.
+- **How much time do you actually spend on my business?** Fractional roles are outcome-based, not hourly. Typically, it equates to 1-2 full days per week of focused strategic work and team management from myself, plus the active ongoing support of my specialist teams.
+- **Can I combine roles (e.g., COO and CMO)?** Yes. For early-stage or rapidly scaling companies, the lines between operations, marketing, and AI adoption often blur. We can structure a blended role focused on holistic growth.
+- **Will you help us hire our full-time replacement eventually?** Absolutely. The goal is often to build the department to a scale where a full-time hire makes financial sense. Our teams help draft the job description, interview candidates, and manage the transition.
+
+**CTA:** Book Your Diagnostic
+
+---
+
+## Service Lines
+
+### 1. Marketing Consulting
+SEO, AI search visibility (LLMO/GEO/AEO), paid media, social media management, and funnel strategy built on real client results.
+
+**What This Covers:**
+- SEO strategy and AI search visibility (LLMO, GEO, AEO)
+- Schema and entity strategy
+- Paid media, Social media management, and Funnel strategy
+- Local and multi-location visibility
+- Analytics setup and Marketing team/vendor evaluation
+
+**Who This Is For:**
+- Founders spending without clear ROI.
+- Established businesses watching organic traffic flatten due to AI Overviews.
+- Teams running paid media that converts but doesn't scale.
+
+**How Delivery Works:**
+- **Diagnostic-First Approach:** Before recommending tactics, our teams audit your current analytics, ad accounts, and SEO footprint to find the leaks.
+- **90-Day Sprint:** Following the diagnostic, we move into a sprint to execute the highest-leverage opportunities.
+
+**FAQs:**
+- **What is AI search visibility (LLMO/GEO)?** Optimization focusing on ensuring your brand is cited and recommended by AI engines like ChatGPT, Claude, and Google's AI Overviews.
+- **Do you execute or advise?** Both. Advisory first, then execution via my team or guidance for your team.
+- **What budget size is needed?** Designed for businesses with at least $10k/mo in existing marketing spend.
+
+**CTA:** Book Your Diagnostic
+
+### 2. Business Setup Consulting
+Entity selection, state selection by industry, licensing, banking, and US and UAE company formation. Set it up right the first time.
+
+**What This Covers:**
+- Entity selection (LLC, S-Corp, C-Corp) and State selection by industry
+- Multi-state operations (nexus, foreign qualification)
+- Licensing, banking infrastructure, and UAE free zone formation
+- The first-90-days admin stack (registered agent, bookkeeping)
+
+**Who This Is For:**
+- First-time founders wanting the right structure before revenue starts.
+- Existing owners suspecting current entities are costing them money.
+- International founders entering the US, or US founders entering the UAE.
+
+**How Delivery Works:**
+- **The Diagnostic:** Reviews current/planned structure against industry, revenue, and growth plans.
+- **The Roadmap & Setup Sprint:** Executes entity type, state, licensing, and banking in sequence.
+
+**FAQs:**
+- **Is Delaware always the right answer?** No. Delaware is for venture-backed C-Corps. For operating businesses, state selection is driven by operations, licensing, and tax.
+- **Do you handle the actual filings?** The sprint walks you through every filing with exact steps and coordinates with formation providers.
+
+**CTA:** Book Your Diagnostic
+
+### 3. Business Optimization Consulting
+Operations audits, pricing review, cost structure analysis, team design, and AI-driven workflow automation. 
+
+**What This Covers:**
+- Operations audit and Cost structure analysis
+- Pricing review (packaging, tiers tested against unit economics)
+- Team design and delegation architecture
+- AI workflow automation to replace hours in ops, content, and CS
+- Process documentation and SOPs
+- Reporting and KPI design
+
+**Who This Is For:**
+- Founders hitting a margin wall.
+- Overworked owners running the business in the margins.
+- Teams scaling inefficiently due to process problems, not headcount problems.
+
+**How Delivery Works:**
+- **The Diagnostic:** Scores your operations across cost, process, team, and AI leverage.
+- **The 90-Day Sprint:** Executes the roadmap: renegotiated stack, rebuilt processes, deployed automations, and reporting layers.
+
+**FAQs:**
+- **How is this different from hiring a fractional COO?** A fractional COO manages operations over time. This engagement fixes the structure, installs systems, and hands them back to you.
+- **Will AI automation replace my staff?** Sometimes, but more commonly, current staff absorb growth without new hires.
+
+**CTA:** Book Your Diagnostic
+
+### 4. Supply Chain Consulting
+Sourcing strategy, supplier vetting, negotiation, landed cost analysis, logistics, and DTC fulfillment. Margins are made before the product ships.
+
+**What This Covers:**
+- Global sourcing strategy and supplier vetting
+- Price negotiation and MOQ reduction strategies
+- Landed cost analysis and unit economics optimization
+- 3PL selection, logistics routing, and DTC fulfillment architecture
+- Quality control protocols and inspection management
+
+**Who This Is For:**
+- E-commerce brands scaling past $1M needing to professionalize their manufacturing.
+- Retail brands transitioning from domestic to overseas manufacturing for margin.
+- Hardware startups preparing for their first major production run.
+
+**How Delivery Works:**
+- **Diagnostic Phase:** Deep audit of your current COGS, freight costs, and fulfillment fees to identify margin leaks.
+- **Execution Sprint:** Sourcing new factory options, sampling, renegotiating existing supplier terms, and transitioning logistics providers if necessary.
+
+**FAQs:**
+- **Do you only work with brands sourcing from China?** No. The right sourcing country depends on your product category, volumes, and margin structure.
+- **Can you introduce me to suppliers directly?** Where our network fits, yes. Where it does not, the sprint teaches you the vetting process itself.
+- **My volumes are small. Will factories take me seriously?** Small volumes need a different playbook: trial-order structures and MOQ negotiation tactics, which is part of this service.
+- **Do you handle ongoing supply chain management?** The sprint installs the system and trains you on it. Ongoing oversight is available under the advisory retainer.
+
+**CTA:** Book Your Diagnostic
+
+### 5. Cybersecurity Consulting
+Security posture assessments, vulnerability review, compliance readiness (SOC 2, ISO 27001, HIPAA), employee risk training, and vendor review.
+
+**What This Covers:**
+- Executive security posture assessments and gap analysis
+- Vulnerability reviews of current infrastructure
+- Compliance readiness roadmapping (SOC 2, ISO 27001, HIPAA)
+- Vendor security reviews and third-party risk management
+- Employee awareness training and phishing simulation architecture
+
+**Who This Is For:**
+- SaaS founders selling to enterprise clients demanding compliance.
+- Healthcare and financial services companies managing sensitive PII/PHI.
+- Companies preparing for M&A or funding rounds needing clean security audits.
+
+**How Delivery Works:**
+- **Assessment Sprint:** A deep dive into your infrastructure, policies, and code lifecycle to identify critical risks.
+- **Remediation Phase:** Working with your engineering/IT teams to patch vulnerabilities and draft required policies.
+- **Compliance Audit Prep:** Standing up the necessary controls and evidence collection for your formal audit.
+
+**FAQs:**
+- **We are small. Are we really a target?** Small businesses are the primary target because attacks are automated and defenses are usually absent.
+- **Is this a penetration test?** The core service is a posture assessment and vulnerability review. Where formal penetration testing is required, our teams scope it with qualified testers.
+- **Will this disrupt our systems?** No. Assessment work is non-destructive and performed only against systems you authorize.
+- **We already have an IT provider. Why do we need this?** IT keeps systems running. Security asks how they break. Most MSP agreements quietly exclude the security review layer.
+
+**CTA:** Book Your Diagnostic
+
+### 6. Education Consulting
+EdTech product strategy, institutional technology adoption, education hardware manufacturing, AI in education, and student data privacy.
+
+**What This Covers:**
+- EdTech product strategy and market-fit analysis
+- Institutional go-to-market and procurement strategy
+- Education hardware R&D and manufacturing guidance
+- AI integration in learning environments
+- Student data privacy compliance (FERPA, COPPA)
+
+**Who This Is For:**
+- EdTech founders needing a clear path to district and institutional sales.
+- Hardware manufacturers pivoting into the education sector.
+- Schools and districts evaluating large-scale technology deployments.
+
+**How Delivery Works:**
+- **Diagnostic Phase:** Evaluating your product against actual institutional buying cycles and compliance requirements.
+- **Strategy Sprint:** Building the go-to-market playbook, refining product features for educators, and structuring pilot programs.
+
+**FAQs:**
+- **Do you work with both edtech companies and schools?** Yes. Founders learn how buyers actually decide. Institutions learn how to evaluate vendors past the demo.
+- **Can you help with education hardware, not just software?** Yes. I have personally taken education devices through manufacturing and R&D partnerships.
+- **We are pre-product. Is it too early?** Pre-product is the best time. The diagnostic will pressure-test your concept before you build the wrong thing.
+- **Do you cover higher education and corporate training, or just K-12?** All three. The diagnostic identifies which segment fits your product and margin structure best.
+
+**CTA:** Book Your Diagnostic
+
+---
+
+## The Business Launch Playbook (Book)
+**Title:** The Business Launch Playbook: A Practical Guide to Starting and Scaling
+**Author:** Dylan Mazzei
+
+The ultimate, no-fluff operating manual for founders. This isn't theory; it's the exact framework Dylan has used to build, scale, and exit companies across multiple industries. It strips away the startup noise and focuses entirely on the mechanics of building a profitable, sustainable business from day one.
+
+**Core Chapters & Benefits:**
+- **Validation:** How to test your idea against market realities before spending a dime on development.
+- **Structure:** Entity setup, tax considerations, and protecting your equity.
+- **Operations:** Building systems that allow the business to run without you being the primary bottleneck.
+- **Marketing:** Customer acquisition mechanics that actually convert, bypassing vanity metrics.
+- **Scale:** Knowing when to hire, when to automate, and how to prepare for an eventual exit.
+
+**CTA:** Buy on Amazon | Download the First Chapter Free
+
+---
+
+## About Dylan Mazzei
+Operator first. Theorist never.
+
+Dylan Mazzei is a multi-venture founder, operator, and advisor. Over the past decade, he has founded, scaled, and exited companies across marketing, AI software, consumer goods (spirits), education technology, and cybersecurity. He actively operates businesses in both the United States and the UAE.
+
+His approach to business is rooted in **radical transparency and systems architecture**. He believes that most business problems are not market problems, but operational bottlenecks. 
+
+**Leadership Timeline & Key Achievements:**
+- Founded and scaled multiple digital marketing and AI growth agencies.
+- Built and successfully exited enterprise SaaS and EdTech platforms.
+- Spearheaded the launch and distribution of a consumer spirits brand.
+- Serves as an active Fractional C-Level Executive for high-growth firms.
+- Author of *The Business Launch Playbook*.
+
+**Mission Statement:**
+"To replace founder hustle with scalable systems. I build and fix the engines of businesses so owners can stop working in the margins and start leading."
+
+---
+
+### Navigation Links
+- Home: https://dylanmazzei.com/
+- About: https://dylanmazzei.com/about
+- Book: https://dylanmazzei.com/book
+- Consulting: https://dylanmazzei.com/consulting
+- Portfolio: https://dylanmazzei.com/portfolio
+- Press: https://dylanmazzei.com/press
+- Contact: https://dylanmazzei.com/contact
+
+### Structured Data Entities
+
+Person Entity (Dylan Mazzei):
+- Image: https://dylanmazzei.com/assets/dylan-mazzei.jpg
+- Instagram: https://instagram.com/caposins
+- LinkedIn: https://linkedin.com/in/dylanmazzei
+- Wikidata: https://www.wikidata.org/wiki/Q140756776
+- Amazon Author Page: https://www.amazon.com/e/B0HCJJ1154
+
+Book Entity:
+- Title: The Business Launch Playbook
+- Author: Dylan Mazzei
+- Amazon Listing: https://www.amazon.com/dp/B0HCCZPHNJ

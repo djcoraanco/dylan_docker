@@ -1,0 +1,21 @@
+{
+  "name": "Dylan Mazzei",
+  "short_name": "Dylan Mazzei",
+  "description": "Founder and operator of companies across marketing, AI software, spirits, edtech, and cybersecurity in the US and UAE. Four exits. Author of The Business Launch Playbook.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a192f",
+  "icons": [
+    {
+      "src": "https://horizons-cdn.hostinger.com/36d537b2-6a44-466e-b4f5-6f4b52ea69c7/c34e5abb23a9dc94674acd537e23451a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://horizons-cdn.hostinger.com/36d537b2-6a44-466e-b4f5-6f4b52ea69c7/c34e5abb23a9dc94674acd537e23451a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
